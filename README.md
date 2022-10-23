@@ -1,4 +1,4 @@
-# Experiments of Neural Network
+# Experiments of Neural Networks (including Deep Learning)
 
 
 
