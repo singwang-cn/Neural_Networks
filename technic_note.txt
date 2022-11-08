@@ -1,0 +1,3 @@
+### Nsight Systems
+nsys nvprof python train.py ### 
+nsys profile -o report python train.py ###
